@@ -6,4 +6,15 @@ The script generates an array with numbers from 1 to 100, replacing numbers divi
 Before running this script, ensure you have Node.js installed on your system. If you do not have Node.js installed, you can download it from [nodejs.org](https://nodejs.org/).
 
 # Running the Script
+1. Clone this repository to your local machine using Git:
+2. '''bash
+    git clone https://github.com/alyssa-tech/BingBang-prime-number.git
 
+  or
+
+  Download the bingbang.js file
+
+2. Navigate to the repository directory and open promt
+3. Run the script using Node.js
+   '''bash
+   node bigbang.js
