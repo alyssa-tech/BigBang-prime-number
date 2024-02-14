@@ -7,7 +7,7 @@ Before running this script, ensure you have Node.js installed on your system. If
 
 # Running the Script
 1. Clone this repository to your local machine using Git:
-2. '''bash
+   '''bash
     git clone https://github.com/alyssa-tech/BingBang-prime-number.git
 
   or
